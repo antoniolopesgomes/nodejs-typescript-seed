@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/antoniolopesgomes/tedi"
+    "url": "https://github.com/antoniolopesgomes/nodejs-typescript-seed"
   },
   "scripts": {
     "test": "jasmine"
