@@ -1,0 +1,37 @@
+{
+  "name": "nodejs-typescript-seed",
+  "version": "0.1",
+  "description": "Node.js project seed for typescript",
+  "keywords": [
+    "typescript",
+    "di"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniolopesgomes/tedi"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "António Gomes",
+  "devDependencies": {
+    "@types/jasmine": "^2.2.32",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.0",
+    "gulp-sequence": "^0.4.5",
+    "gulp-typescript": "^2.13.6",
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.5.0",
+    "merge2": "^1.0.2",
+    "typescript": "^2.0.0"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.33",
+    "@types/winston": "0.0.27",
+    "inversify": "^2.0.0-beta.6",
+    "lodash": "^4.13.1",
+    "nested-error-stacks": "^2.0.0",
+    "winston": "^2.2.0"
+  }
+}

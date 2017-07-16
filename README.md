@@ -1,0 +1,1 @@
+# node.js typescript (to ES6) project seed
